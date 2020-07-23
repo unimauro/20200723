@@ -9,4 +9,4 @@ QC IBM QX &amp; QISKit onboarding
 
 Qiskit library installation instructions : qiskit.org > Documentation > Installing Qiskit
 
-https://qiskit.org/documentation/
+https://qiskit.org/documentation/install.html
